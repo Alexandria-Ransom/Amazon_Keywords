@@ -4,11 +4,11 @@
 
 18 Keywords used 
 * bathbombs 
-* bellydance_wings 
-* coin_scarf
-* cotton_balls 
-* eco_friendly_pencils
-* faux_mink_eyelashes
+* bellydance wings 
+* coin scarf
+* cotton balls 
+* eco friendly pencils
+* faux mink eyelashes
 * glitter
 * led lights
 * led lights for bedroom
