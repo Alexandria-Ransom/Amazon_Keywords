@@ -1,6 +1,6 @@
 # Amazon_Keywords
 
-![amazonurl]([https://giphy.com/gifs/amazon-prime-day-3o7btR4w5GK8CTpNOU)
+![amazon]([https://giphy.com/gifs/amazon-prime-day-3o7btR4w5GK8CTpNOU)
 
 18 Keywords used 
 * bathbombs 
