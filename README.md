@@ -1,13 +1,8 @@
 # Amazon_Keywords **Under Construction
 
 ![amazon-prime-amazon-prime-day](https://user-images.githubusercontent.com/104231685/185825529-4c0616d4-bda6-4376-8c2b-f385cce1aca7.gif)
-![ultrathrone-ultrathrone-amazon](https://user-images.githubusercontent.com/104231685/185825808-236b4931-73d0-4566-9485-469ad00cb6a1.gif)
 
-![amazon-boxes](https://media.giphy.com/media/3o7btR4w5GK8CTpNOU/giphy-downsized-large.gif)
-
-![amazon](https://media.giphy.com/media/3o7btR4w5GK8CTpNOU/giphy-downsized-large.gif)
-
-![amazon](https://giphy.com/gifs/amazon-pyq7im7YZZ3UENRl3f)
+![amazon](https://i.gifer.com/QqjA.gif)
 # Narrow Why: 
 # Broad Why? 
 
