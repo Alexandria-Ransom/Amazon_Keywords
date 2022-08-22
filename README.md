@@ -1,6 +1,10 @@
 # Amazon_Keywords
 
-![](https://media.giphy.com/media/3o7btR4w5GK8CTpNOU/giphy-downsized-large.gif)
+![amazon-prime-amazon-prime-day](https://user-images.githubusercontent.com/104231685/185825529-4c0616d4-bda6-4376-8c2b-f385cce1aca7.gif)
+
+
+
+
 
 # Narrow Why: 
 # Broad Why? 
