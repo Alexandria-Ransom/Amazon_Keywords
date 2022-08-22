@@ -1,9 +1,13 @@
 # Amazon_Keywords **Under Construction
 
 ![amazon-prime-amazon-prime-day](https://user-images.githubusercontent.com/104231685/185825529-4c0616d4-bda6-4376-8c2b-f385cce1aca7.gif)
-<div style="width:100%;height:0;padding-bottom:111%;position:relative;"><iframe src="https://giphy.com/embed/l2QE4amFR5TyurJy8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/amazon-ad-l2QE4amFR5TyurJy8">via GIPHY</a></p>
-![amazon](https://i.gifer.com/QqjA.gif)
-![amazon](https://gifer.com/en/Uoug)
+
+
+<iframe src="https://giphy.com/embed/l2QE4amFR5TyurJy8" width="433" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/amazon-ad-l2QE4amFR5TyurJy8">via GIPHY</a></p>
+
+
+
+
 # Narrow Why: 
 # Broad Why? 
 
