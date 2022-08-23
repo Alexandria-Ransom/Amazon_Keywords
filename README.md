@@ -14,6 +14,7 @@
 ## Version 2 
 - automation 
 - machine learning algothrims 
+- building an app
 
 # Narrow Why: 
 # Broad Why? 
