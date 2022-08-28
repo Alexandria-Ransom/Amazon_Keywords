@@ -11,10 +11,10 @@
 - V2 Version 1.1 - Extracting Insights and Identifying database patterns via SQL queries - simple analysis SQLite3
 - V3 Version 1.1 - Data Visualization in Tableau [Here it is](https://public.tableau.com/views/Version1_1_V3/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-## Version 2 
-- automation 
-- machine learning algothrims 
-- building an app
+## Version 2  Stayed in under production
+- V1  Version 2.2 Automation 
+- V2 Version 2.3 Machine learning algothrims 
+- V3 Version 2.2 Building an app
 
 # Narrow Why: 
 # Broad Why? 
