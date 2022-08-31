@@ -16,8 +16,12 @@
 - machine learning algothrims 
 - building an app
 
-# Narrow Why: 
+# Narrow Why?
+We can turn this project into a machine learning problem where we are predicting a single ‘Y’ target of net profit. I can also automate data for amazon sellers to access information about keywords with lightning speed.
 # Broad Why? 
+This project will help amazon sellers in their product research stage in finding a product that is lucrative and can help them achieve their overall goal to sell and private label.
+
+
 
 ## Dataset Background-Link: 
 
