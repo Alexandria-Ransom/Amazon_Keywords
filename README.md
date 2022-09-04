@@ -10,7 +10,11 @@ I will be taking 18 keywords that you can type into the amazon search bar at ama
 
 Hands on visual example: bellydance wings is the keyword in this photo. The orange square is the third part app junglescout that collects data (holds around 15 attributes) for the search pages under this keyword.
 
-![junglescout](https://github.com/Alexandria-Ransom/Amazon_Keywords/tree/Version1.1/gifs/photos)
+![junglescout](https://github.com/Alexandria-Ransom/Amazon_Keywords/blob/Version1.1/gifs/photos/junglescout.png)
+
+
+The project will be broken down into different versions. 
+
 
 
 
@@ -18,7 +22,7 @@ Hands on visual example: bellydance wings is the keyword in this photo. The oran
 
 
 ## Version 1
-- V1 Version 1.1 - Data Wrangling & Cleaning in Python
+- V1 Version 1.1 - Data Wrangling, Pre-processing, & Cleaning in Python. In this version, I will take all the 18 csvs collected per each keyword and combine them into one large csv file. After, I will conduct indepth cleaning through pandas library. This version essentially wrangles the data and gets the data in proper format. This version fills in missing values, cleans column names, uses stat tests to help preprocess skewed numerical data. 
 - V2 Version 1.1 - Extracting Insights and Identifying database patterns via SQL queries - simple analysis SQLite3
 - V3 Version 1.1 - Data Visualization in Tableau 
 
