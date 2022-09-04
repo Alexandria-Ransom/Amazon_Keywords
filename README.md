@@ -8,7 +8,7 @@
 
 I will be taking 18 keywords that you can type into the amazon search bar at amazon.com and performing analysis on trends and patterns amongst product categories. These 18 keywords represent physical products that can be purchased from their website. From there, I will be evaluating the search results products pages under that key term. For each keyword, I will be collecting  my own data on each term via third party app junglescout. After, typing in each keyword via amazon searchbar, inidviually I ram the junglescout app to pull on data for that keyword that showcases around 15 attributes for the individual keyword. Here is a photograph example below on this exactly on how each word was collected:
 
-![junglescout](gifs\junglescout.png)
+![junglescout](https://github.com/Alexandria-Ransom/Amazon_Keywords/blob/Version1.1/gifs/junglescout.png)
 
 
 
