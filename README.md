@@ -1,10 +1,19 @@
-#                   Amazon_Keywords **Under Construction
+#                   Amazon_Keywords 
 
 ![](https://github.com/Alexandria-Ransom/Amazon_Keywords/blob/main/amazonman.gif)
 
 
 
-# Project Description
+# Project Description | Project Preface: Amazon Keywords-Search Terms
+
+I will be taking 18 keywords that you can type into the amazon search bar at amazon.com and performing analysis on trends and patterns amongst product categories. These 18 keywords represent physical products that can be purchased from their website. From there, I will be evaluating the search results products pages under that key term. For each keyword, I will be collecting  my own data on each term via third party app junglescout. After, typing in each keyword via amazon searchbar, inidviually I ram the junglescout app to pull on data for that keyword that showcases around 15 attributes for the individual keyword. Here is a photograph example below on this exactly on how each word was collected:
+
+![junglescout](gifs\junglescout.png)
+
+
+
+
+
 
 ## Version 1
 - V1 Version 1.1 - Data Wrangling & Cleaning in Python
@@ -26,10 +35,10 @@ This project will help amazon sellers in their product research stage in finding
 ## Dataset Background-Link: [DatasetLink](https://github.com/Alexandria-Ransom/Amazon_Keywords/blob/Version1.1/ecom_search_keywords.csv)
 
 
-## Broad What ? Version 1, Version 2, Version 3
+
 
 ## Project Preface: Amazon Keywords-Search Terms
-### What: I will be taking 18 keywords that you can type into the amazon search bar at amazon.com. These 18 keywords represent physical products that can be purchased from their website. From there, I will be evaluating the search results products pages under that key term. I will be collecting  my own data on each term via junglescout. Keywords symbolize physical products that can be bought on amazon. 
+
 ### Attributes: For each keyword the attritube we will using to analyze each search term is 
 * Product Name: The individual name under the keyword of the product 
 * Brand: Individual Product brand for the keyword
