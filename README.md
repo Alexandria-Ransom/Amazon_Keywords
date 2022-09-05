@@ -6,9 +6,9 @@
 
 # Project Description | Project Preface: Amazon Keywords-Search Terms
 
-I will be taking 18 keywords that you can type into the amazon search bar at amazon.com and performing analysis on trends and patterns amongst product categories. These 18 keywords represent physical products that can be purchased from their website. From there, I will be evaluating the search results products pages under that key term. For each keyword, I will be collecting  my own data on each term via third party app junglescout. After, typing in each keyword via amazon searchbar, inidviually I ram the junglescout app to pull on data for that keyword that showcases around 15 attributes for the individual keyword. Here is a photograph example below on this exactly on how each word was collected:
+This project will be taking 18 keywords that you can type into the amazon search bar at amazon.com and perform analysis on trends and patterns amongst product categories. These 18 keywords represent physical products that can be purchased from their website. From there, I will be evaluating the search results products pages under that key term via junglescout data. For each keyword, I will be collecting  my own data on each term via third party app junglescout. After, typing in each keyword via amazon searchbar, click on the junglescout app to pull on data for that keyword that showcases around 15 attributes for the individual keyword. Here is a photograph example below on this exactly on how each word was collected:
 
-Hands on visual example: Bellydance wings is the keyword in this photo. The orange square is the third part app junglescout that collects data (holds around 15 attributes) for the search pages under this keyword.
+Hands on visual example: "bellydance wings" is the keyword in this photo. The orange square is the third party app junglescout that collects data (holds around 15 attributes) for the search pages under this keyword.
 
 ![junglescout](https://github.com/Alexandria-Ransom/Amazon_Keywords/blob/Version1.1/gifs/photos/junglescout.png)
 
@@ -19,21 +19,18 @@ Hands on visual example: Bellydance wings is the keyword in this photo. The oran
 
 
 ## Version 1
-- V1 Version 1.1 - Data Wrangling, Pre-processing, & Cleaning in Python. In this version, I will take all the 18 csvs collected per each keyword and combine them into one large csv file. After, I will conduct indepth cleaning through pandas library. This version essentially wrangles the data and gets the data in proper format. This version fills in missing values, cleans column names, uses stat tests to help preprocess skewed numerical data. 
-- V2 Version 1.1 - Extracting Insights and Identifying database patterns via SQL queries - simple analysis SQLite3
-  In version V2, I use SQL queries to discover and extract insights amongst product 22 categories from the cleaned csv file from v1. This helps reveals underlyimg structure of a data set. The goal is to do a simple analysis for each category by itself to look at it on its own.  
+- V1 Version 1.1 - Data Wrangling, Pre-processing, & Cleaning in Python. In this version, I will take all the 18 csvs of tabular data collected per each keyword and combine them into one large csv file. After, I will conduct indepth cleaning through the pandas library. This version essentially wrangles the data and gets the data in proper format. This version fills in missing values, cleans column names, uses stat tests to help preprocess skewed numerical data. 
+- V2 Version 1.1 - Extracting Insights and Identifying database patterns via SQL queries - simple analysis in SQLite3 python library
+  In version V2, I use SQL queries to discover and extract insights amongst product 22 categories from the cleaned csv file from v1. This helps reveals underlying structure of the dataset. The goal is to do a simple analysis for each category by itself to look how the column is behaving on its own.(This will be independent analysis on amazon product categories in looking at categoreies by eacg singley. )  
 - V3 Version 1.1 - Data Visualization in Tableau
-  After extracting insights amongst each category, I take it a step further by visualizing the data in Tableau. These visuals reveal and maginify the trends explored on graphs. The visuals help form interactive dashbards to gain even more insights and perspective. 
+  After extracting insights amongst each category, I will take it a step further by visualizing the data in Tableau. These visuals reveal and maginify the trends explored on graphs. The visuals help form interactive dashbards to gain even more insights and perspective across all categories. 
 
 ## Version 2 
 - Version 2.2 V1 Automation 
-- Version 2.2 V2 Machine Learning Algothrims: Predicting all numerical columnss 
+- Version 2.2 V2 Machine Learning Algothrims: Predicting all numerical columns
 - Version 2.2 V3 Building an app to predict single, binary, and multiclassers. 
-
-# Narrow Why?
-We can turn this project into a machine learning problem where we are predicting a single ‘Y’ target of net profit. I can also automate data for amazon sellers to access information about keywords with lightning speed.
-# Broad Why? 
-This project will help amazon sellers in their product research stage in finding a product that is lucrative and can help them achieve their overall goal to sell and private label.
+# Broad Why of this project | Who will this project add the most value and be am asset to? 
+This project will help amazon sellers in their product research stage in finding a product that is lucrative and can help them achieve their overall goal to sell and private label. This project would help save FBA sellers time in product search by automating data visualizations and data analysis for the sellers to make decisions faster. 
 
 
 
