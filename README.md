@@ -29,8 +29,8 @@ Hands on visual example: "bellydance wings" is the keyword in this photo. The or
 - Version 2.2 V1 Automation 
 - Version 2.2 V2 Machine Learning Algothrims: Predicting all numerical columns
 - Version 2.2 V3 Building an app to predict single, binary, and multiclassers. 
-# Broad Why of this project | Who will this project add the most value and be am asset to? 
-This project will help amazon sellers in their product research stage in finding a product that is lucrative and can help them achieve their overall goal to sell and private label. This project would help save FBA sellers time in product search by automating data visualizations and data analysis for the sellers to make decisions faster. 
+## Broad Why of this project | Who will this project add the most value and be a asset to? 
+This project will help amazon sellers in their product research stage in finding na product that is lucrative and can help them achieve their overall goal to sell and private label. This project would help save FBA sellers time in product search by automating data visualizations and data analysis for the sellers to make decisions faster. 
 
 
 
