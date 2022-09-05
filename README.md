@@ -38,7 +38,7 @@ This project will help amazon sellers in their product research stage in finding
 
 
 
-### Attributes: For each keyword the attritube we will using to analyze each search term is 
+### Tabular Data Attributes: For each keyword the attritube we will using to analyze each search term is 
 * Product Name: The individual name under the keyword of the product 
 * Brand: Individual Product brand for the keyword
 * Monthly Sales: 30 unit sales estimate
