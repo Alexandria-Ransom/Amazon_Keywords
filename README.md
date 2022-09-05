@@ -57,9 +57,9 @@ This project will help amazon sellers in their product research stage in finding
 * Category: Amazon product category the listing fell under
 * Asin: Product Asin Number (Amazon Standard Identification Number)
 * Link : The link to view the individual product
-## **Version 1:**
+## **18 Keywords Used:**
 
-18 Keywords used 
+
 * bathbombs 
 * bellydance wings 
 * coin scarf
