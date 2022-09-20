@@ -77,3 +77,18 @@ This project will help amazon sellers in their product research stage in finding
 * vegan mascara
 
 ![](https://github.com/Alexandria-Ransom/Amazon_Keywords/blob/main/giphy.gif)
+
+# Obtaining Data 
+In this repo, you will see a folder called data/final_combined_csv/. Click this folder to obtain the data. There are different options to use this data interactively with thsi notebook. You will see  a folder called 18csvs_individual_zip. This is a zipfolder that holds the 18 seperate csvs for every keyword. You have the option to download this zip and run the jupyter notebook code. Second Option: You will a second folder called individual_csvs. This folder is the same csvs from the above zipfile, but just not held in a zip file, that way they can be accessible one by one. Open this folder, download individual csvs one by one. 
+
+*The final folder ecom_search_keywords, is a file that can be downloaded after you walkd through this project with the jupyter notebook. This is a csv with of the 18 csvs combined as oone single csv.
+
+
+# Gifs Folder 
+
+The gifs folder holds all of the interactive gifs in this repo that can be downloaded for fun to follow along with.
+
+
+# Version 1.1 Folder
+
+After obtaining the data, first open the v1 folder. The v1 folder stands for Version 1.1.1 v1. Here in v1, you will be looking at a notebook of data wrangling, cleaning and analysis in pandas in python. v1 folder you will find the notebook keywords_ecom.ipynb to follow along. Download keywords_ecom.ipynb and run each cell.
